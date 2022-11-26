@@ -58,7 +58,9 @@ XorMM/
 2. Jianfeng Wang, jfwang@xidian.edu.cn
 
 ## Reference
-1. S. Patel, G. Persiano, K. Yeo, and M. Yung, “Mitigating leakage in secure cloud-hosted data structures: Volume-hiding for multi-maps via hashing,” in CCS 2019, London, UK, November 11-15, 2019. ACM, 2019, pp. 79–93. [Online]. Available:
+1. Jianfeng Wang, Shi-Feng Sun, Tianci Li, Saiyu Qi, Xiaofeng Chen: Practical Volume-Hiding Encrypted Multi-Maps with Optimal Overhead and Beyond. CCS 2022: 2825-2839.[Online]. Available: [https://doi.org/10.1145/3319535.3354213](https://dl.acm.org/doi/abs/10.1145/3548606.3559345)
+
+2. S. Patel, G. Persiano, K. Yeo, and M. Yung, “Mitigating leakage in secure cloud-hosted data structures: Volume-hiding for multi-maps via hashing,” in CCS 2019, London, UK, November 11-15, 2019. ACM, 2019, pp. 79–93. [Online]. Available:
 https://doi.org/10.1145/3319535.3354213
 
-2. T. M. Graf and D. Lemire, “Xor filters: Faster and smaller than bloom and cuckoo filters,” CoRR, 2019. [Online]. Available: http://arxiv.org/abs/1912.08258
+3. T. M. Graf and D. Lemire, “Xor filters: Faster and smaller than bloom and cuckoo filters,” CoRR, 2019. [Online]. Available: http://arxiv.org/abs/1912.08258
